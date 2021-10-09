@@ -168,10 +168,13 @@ li a:hover {
 }
 
 #footer {
-    margin-top: 5%;
-    margin-bottom: 5%;
     float: left;
     width: 100%;
+}
+
+#footer .column-3 {
+    margin-top: 2.5%;
+    margin-bottom: 2.5%;
 }
 
 #footer img {
@@ -187,5 +190,6 @@ li a:hover {
 }
 
 .relleno-izquierda {
-    padding-left: 15px;
+    padding-left: 5%;
+    padding-top: 1.5%;
 }
