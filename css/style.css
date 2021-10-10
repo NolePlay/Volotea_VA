@@ -144,6 +144,11 @@ li a:hover {
     width: 33.3%;
 }
 
+.column-5 {
+    float: left;
+    width: 20%;
+}
+
 .gallery {
     float: left;
     width: 20%;
