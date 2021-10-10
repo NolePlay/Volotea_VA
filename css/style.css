@@ -153,6 +153,7 @@ li a:hover {
 .column-5 {
     float: left;
     width: 20%;
+    text-align: center;
 }
 
 .gallery {
@@ -193,6 +194,10 @@ li a:hover {
 
 #section-2 h1 {
     font-size: 60px;
+}
+
+#section-2 p {
+    font-size: 22px;
 }
 
 #footer {
