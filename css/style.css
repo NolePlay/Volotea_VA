@@ -200,6 +200,15 @@ li a:hover {
     font-size: 22px;
 }
 
+#section-3 img {
+    width: 100%;
+}
+
+#section-3 p,h1 {
+    padding-right: 10%;
+    text-align: center;
+}
+
 #footer {
     float: left;
     width: 100%;
