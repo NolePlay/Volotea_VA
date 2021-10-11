@@ -202,8 +202,10 @@ li a:hover {
 #section-3 {
     float: left;
     padding-top: 80px;
-    margin-left: 10%;
-    margin-right: 10%;
+    margin-left: 15%;
+    margin-right: 15%;
+    display: flex;
+    align-items: center;
 }
 
 #section-3 img {
